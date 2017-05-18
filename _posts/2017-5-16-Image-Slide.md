@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image Slider 자바스크립트로 구현하기~~
+title: Implement Image Slider using JS
 ---
 
 <script async src="//jsfiddle.net/wzeftytn/3/embed/"></script>
