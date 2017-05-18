@@ -3,5 +3,5 @@ layout: post
 title: Implement Image Slider using JS
 ---
 
+Source Code :
 <script async src="//jsfiddle.net/wzeftytn/3/embed/"></script>
-<script async src="//jsfiddle.net/wzeftytn/3/embed/show"></script>
